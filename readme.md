@@ -9,7 +9,7 @@ This project is currently very much a work in progress. Check it out to get idea
 
 
 
-### A JavaScript library built to aid in scripting and automating the Adobe Photoshop image editing app
+### A JavaScript library built to make it easier to script Adobe Photoshop
 
 This JavaScript library is intended to help quickly manage common tasks when automating tasks in Photoshop. It takes common tasks such as sampling a color or selecting layers, that sometimes take multiple lines of code or easedropping on the ScriptListener plugin, and wraps them in some straight forward and human friendly function names.
 
