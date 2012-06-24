@@ -35,7 +35,7 @@ Shoppe is comprised of a few collections of methods to make it easy to learn and
 * `sjs.app.*` : application related methods
 * `sjs.doc.*` : document related methods including creation and testing of properties
 * `sjs.color.*` : color related methods including sampling
-* `sjs.random.*` : convienence methods for generating random numbers or colors
+* `sjs.random.*` : convenience methods for generating random numbers or colors
 * `sjs.text.*` : text layer related methods
 * `sjs.layer.*` : general and art layer methods
 * `sjs.meta.*` : metadata and exit related methods
